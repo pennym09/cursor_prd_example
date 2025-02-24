@@ -2,14 +2,15 @@
 ## Project Overview
 
 ### Vision Statement
-TechPrep AI aims to revolutionize how software engineers prepare for technical interviews by providing a personalized, AI-driven preparation experience that adapts to each candidate's background and career goals. By analyzing the user's resume and creating customized learning paths, we help engineers bridge the gap between their current skills and their dream job requirements.
+Unity Sphere envisions a future where access to opportunity is democratized through intelligent technology. We empower artists, nonprofits, businesses, and government contractors to seamlessly discover and secure the funding they need to thrive. By fostering connections across multifaceted communities, we create an ecosystem where collaboration amplifies collective success and enables sustainable impact.
 
 ### Problem Statement
-Technical interviews in the software industry are complex, requiring deep preparation across multiple dimensions: algorithmic problem-solving, system design, behavioral questions, and specific technology expertise. Current solutions are often:
-- Generic and not personalized to individual experience levels
-- Lacking in real-time feedback and guidance
-- Unable to adapt to a candidate's specific weaknesses
-- Not comprehensive enough to cover all aspects of technical interviews
+Billions in grants and government contracts go underutilized or unclaimed each year, despite being specifically earmarked for artists, nonprofits, small businesses, and contractors from underrepresented backgrounds. This disconnect occurs not from a lack of qualified candidates, but because these opportunities remain hidden within complex systems, obscure databases, and networks that are difficult to access. Even when discovered, potential recipients often lack specific qualifications, experience, or resources required to successfully compete—despite having strong core capabilities. Meanwhile, complementary businesses or individuals who could fill these gaps remain disconnected from those who need their expertise. This fragmentation prevents potential collaborations that would strengthen applications and create winning partnerships. The result is a ecosystem where opportunities go unfulfilled, potential remains untapped, and resources designated to foster growth and innovation fail to reach those who could most benefit from them."
+
+Three core problems Unity Sphere addresses:
+- Discovery Problem: Qualified candidates cannot find opportunities specifically designated for them due to fragmented, complex, and opaque funding systems.
+- Qualification Gap: Individuals and organizations with strong core capabilities often miss specific requirements needed to successfully secure available funding.
+- Collaboration Barrier: Complementary businesses and individuals that could form winning partnerships remain disconnected, preventing mutually beneficial collaborations that would strengthen funding applications.​​​​​​​​​​​​​​​​
 
 ### Solution
 TechPrep AI provides an intelligent interview preparation platform that:
